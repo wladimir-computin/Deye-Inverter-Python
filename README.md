@@ -2,6 +2,8 @@
  
 Read/Write information from Deye microinverters using Python. 
 
+Direct communication via Modbus. No Clouds.
+
 ## Usage
  
 ```bash
